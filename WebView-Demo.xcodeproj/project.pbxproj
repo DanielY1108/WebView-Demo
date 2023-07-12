@@ -13,6 +13,7 @@
 		655F23C32A5E964300DCCD17 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 655F23C12A5E964300DCCD17 /* Main.storyboard */; };
 		655F23C52A5E964400DCCD17 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 655F23C42A5E964400DCCD17 /* Assets.xcassets */; };
 		655F23C82A5E964400DCCD17 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 655F23C62A5E964400DCCD17 /* LaunchScreen.storyboard */; };
+		655F23D02A5E969400DCCD17 /* WebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 655F23CF2A5E969400DCCD17 /* WebViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		655F23C42A5E964400DCCD17 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		655F23C72A5E964400DCCD17 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		655F23C92A5E964400DCCD17 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		655F23CF2A5E969400DCCD17 /* WebViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				655F23BB2A5E964300DCCD17 /* AppDelegate.swift */,
 				655F23BD2A5E964300DCCD17 /* SceneDelegate.swift */,
 				655F23BF2A5E964300DCCD17 /* ViewController.swift */,
+				655F23CF2A5E969400DCCD17 /* WebViewController.swift */,
 				655F23C12A5E964300DCCD17 /* Main.storyboard */,
 				655F23C42A5E964400DCCD17 /* Assets.xcassets */,
 				655F23C62A5E964400DCCD17 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				655F23C02A5E964300DCCD17 /* ViewController.swift in Sources */,
 				655F23BC2A5E964300DCCD17 /* AppDelegate.swift in Sources */,
 				655F23BE2A5E964300DCCD17 /* SceneDelegate.swift in Sources */,
+				655F23D02A5E969400DCCD17 /* WebViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
